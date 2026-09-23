@@ -1,3 +1,3 @@
 ahoj
 halo
-Under development
+Verze z vetve conflictu
