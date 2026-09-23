@@ -1,3 +1,3 @@
 ahoj
 halo
-Under development
+verze z hlavni vetve
